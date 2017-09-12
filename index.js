@@ -1,3 +1,4 @@
 function main () {
- print("hello word!!!");
+	console.log("hello word!!!");
+	console.log("By word!!!");
 }
